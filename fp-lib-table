@@ -1,0 +1,6 @@
+(fp_lib_table
+  (lib (name "e-switch")(type "KiCad")(uri "P:/KiCad Libs/mafe-kicad-libraries-master/modules/e-switch.pretty")(options "")(descr "")(disabled))
+  (lib (name "mysensors_arduino")(type "KiCad")(uri "P:/KiCad Libs/mysensors_arduino.pretty-master")(options "")(descr "")(disabled))
+  (lib (name "Arduino")(type "KiCad")(uri "P:/KiCad Libs/arduino-kicad-library-master/Arduino.pretty")(options "")(descr "")(disabled))
+  (lib (name "ArduinoProMini")(type "KiCad")(uri "/Users/quinie/Documents/Kicad Libs/QuiniesExtras/Arduino Mini Pro")(options "")(descr ""))
+)

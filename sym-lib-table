@@ -1,0 +1,6 @@
+(sym_lib_table
+  (lib (name "e-switch")(type "Legacy")(uri "P:/KiCad Libs/mafe-kicad-libraries-master/library/e-switch.lib")(options "")(descr "")(disabled))
+  (lib (name "rur")(type "Legacy")(uri "P:/KiCad Libs/kicad.lib-master/rur.lib")(options "")(descr "")(disabled))
+  (lib (name "ArduinoProMini")(type "Legacy")(uri "/Users/quinie/Documents/Kicad Libs/QuiniesExtras/Arduino Mini Pro/ARDUINO_PRO_MINI.lib")(options "")(descr ""))
+  (lib (name "arduino")(type "Legacy")(uri "/Volumes/Programming/KiCad Libs/arduino-kicad-library-master/arduino.lib")(options "")(descr ""))
+)
