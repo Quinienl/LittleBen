@@ -9,3 +9,5 @@ LittleBen is a masterclock for eurorack. It's based on a Arduino Mini. This is t
 This version has a few minor issues I would like to fix. 
 - The panel has a hole for the lcd screen thats need a little bit more on the left side and a little less on the right side.
 
+More info at:
+https://www.quinie.nl/category/diy/littleben/
