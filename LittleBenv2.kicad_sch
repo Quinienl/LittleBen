@@ -3608,7 +3608,7 @@
     (property "Reference" "C2" (id 0) (at 326.8472 34.3916 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "CP" (id 1) (at 326.8472 36.703 0)
+    (property "Value" "22uf" (id 1) (at 326.8472 36.703 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Footprint" "Capacitor_THT:CP_Radial_D6.3mm_P2.50mm" (id 2) (at 324.8152 39.37 0)
@@ -4520,7 +4520,7 @@
       (reference "C1") (unit 1) (value "100n") (footprint "Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P5.00mm")
     )
     (path "/00000000-0000-0000-0000-000060977c40"
-      (reference "C2") (unit 1) (value "CP") (footprint "Capacitor_THT:CP_Radial_D6.3mm_P2.50mm")
+      (reference "C2") (unit 1) (value "22uf") (footprint "Capacitor_THT:CP_Radial_D6.3mm_P2.50mm")
     )
     (path "/00000000-0000-0000-0000-000060979af9"
       (reference "C3") (unit 1) (value "3.3Uf") (footprint "Capacitor_THT:CP_Radial_D6.3mm_P2.50mm")
